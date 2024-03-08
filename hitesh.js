@@ -1,2 +1,3 @@
-console.log(" this is demo folder")
-let a=4
+console.log(" this is demo folder");
+let a=100;
+let abc=233;
