@@ -1,1 +1,2 @@
-let ash="eddds";
+let img=document.querySelector('img');
+ let ans=img.classList.toggle('imp');
