@@ -1,5 +1,7 @@
 module.exports.renderSignupForm=async(req,res)=>{
-    res.render("user/signup.ejs");
+
+    res.render("user/logout.ejs");
+
 };
 
 if(process.env.NODE_ENV!="production"){
